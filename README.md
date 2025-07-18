@@ -83,7 +83,7 @@ funXquad 是一個低成本、DIY（自己動手做）的無人機項目，專�
     * 韌體檔案 `firmware.bin` 在[ v1/firmware ](https://github.com/robot4fun/funXquad/tree/main/v1/firmware)目錄內，將其下載到電腦
     * 將`ESP12S模組`正確放入 `燒錄器` 中 ![](v1/firmware/programmer.jpg) (如果使用 `USB to TTL` 或 `開發板` 當燒錄器，請確保接線和電壓正確)
 
-    * 以USB訊號線連接 `電腦` 和 `燒錄器`
+    * 以 `USB 訊號線` (不是充電線) 連接 `電腦` 和 `燒錄器` 
     * 點選進入 [`燒錄工具網頁版`](https://espressif.github.io/esptool-js/)
     * 點選網頁 `Connect` 按鈕，選擇正確的`USB端口` 後點選 `連線`
     * `Flash Address` 設為 `0x0`
