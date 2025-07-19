@@ -54,7 +54,7 @@ funXquad 是一個低成本、DIY（自己動手做）的無人機項目，專�
 
 * `動力系統`： 需4組
     * `室內機`: 820或8520空心杯馬達直驅 55mm 或 40mm 螺旋槳。螺旋槳孔徑需搭配馬達軸徑，通常是 1mm
-    * `室外機`: 馬達採用720空心杯 + 減速齒輪組 + 135mm 螺旋槳。螺旋槳孔徑和形狀需搭配齒輪組軸徑
+    * `室外機`: 馬達採用720空心杯 + 減速齒輪組 + 135mm 螺旋槳。螺旋槳孔徑和形狀需搭配齒輪組軸徑 ![](v1/hardware/gearset1.avif) ![](v1/hardware/gearset2.avif) ![](v1/hardware/propeller135.avif) ![](v1/hardware/propeller135_2.avif)
 
 * `電池`: 以下為實驗過的建議組合，注意電池和充電器接口需匹配
     * `室內機`: 3.8V 高壓 300mAh 75C 或 380mAh 60C 鋰電池 + 3.8V 充電器
@@ -109,7 +109,7 @@ funXquad 是一個低成本、DIY（自己動手做）的無人機項目，專�
     * `TypeE`: 適用 `40mm` 螺旋槳 ![](frames/typeE40.jpg) ![](v1/hardware/typeE40.jpg)
 
 
-* `室外機`: ![](v1/hardware/outdoor135v2.jpg) ![](v1/hardware/outdoor135v2_2.jpg) 安裝了 `高度計` (線路凌亂，建議還是做好電路板再組裝) ![](v1/hardware/gearset1.avif) 
+* `室外機`: ![](v1/hardware/outdoor135v2.jpg) ![](v1/hardware/outdoor135v2_2.jpg) 安裝了 `高度計` (線路凌亂，建議還是做好電路板再組裝)
 
 ## 遙控器
 使用手機當遙控器，目前僅支持安卓10.0以下版本( 從 Android 10 開始，無法透過程式碼啟用或停用 WiFi )
