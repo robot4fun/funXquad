@@ -5,7 +5,6 @@
     <img alt="funXedu" src="funxedu-logo4-black.png" style="max-width: 100%;">
   </picture>
   <br/>
-  <br/>
 </p>
 
 funXquad 是一個低成本、DIY（自己動手做）的無人機項目，專為教育用途設計。
